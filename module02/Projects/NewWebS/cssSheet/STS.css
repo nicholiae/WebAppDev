@@ -45,9 +45,9 @@
     top: 7%;
 }
 .headButtons{
-	
+
 	position:absolute;
-	top:4%;
+	top:3%;
 	left:4%;
 }
 .links{
@@ -154,7 +154,7 @@
 	background-color: rgb(211,211,211);
 	border-radius: 30%;
 	position:absolute;
-}	
+}
 .cURMidCont{
 	top:50%;
 	width:25%;
@@ -173,7 +173,7 @@
 	border-radius: 30%;
 	position:absolute;
 	margin:auto;
-	
+
 }
 .callImg{
 	margin-left:0px;
